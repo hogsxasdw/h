@@ -1,0 +1,322 @@
+-- This script was generated using the MoonVeil Obfuscator v1.3.1 [https://moonveil.cc]
+
+local d,c,R,Z,ya,_,A,qa,ca,u
+_,qa={[-257]=32287,[-4648]=-18486,[29299]=-17558,[5190]=21101,[-25256]=3213,[21865]=5886,[-5357]=31554,[20271]=-28778,[20761]=5886,[-10842]=-28778,[10173]=31554,[-11971]=-18486,[2216]=-29920,[8555]=24437,[-256]=-28778,[-6048]=5886,[-31176]=5886,[5494]=24437,[-11433]=-17818},function(x)
+    return _[x+-11151]
+end
+A=qa(31422)
+repeat
+    while true do
+        if A==1272616066-1272644844 then
+            u=(getfenv());
+            A=qa(-20025);
+        elseif A==-11576644843086/-1966810201 then
+            ya,ca,d=(string.char),(string.byte),(bit32 .bxor);
+            A=qa(-820);
+        elseif A==0.00010595043794856539*230645578 then
+            R=((function()
+                local function j(ka,H,ba)
+                    if H>ba then
+                        return
+                    end
+                    return ka[H],j(ka,H+1,ba)
+                end
+                return j
+            end)());
+            A=qa(1657027304+-1657041409);
+            break;
+        elseif A==-1040154197- -1040185751 then
+            c=(function(...)
+                return{[1]={...},[2]=Z('#',...)}
+            end);
+            A=qa(19706);
+        elseif A==-178637360+178618874 then
+            Z=(select);
+            A=qa(21324);
+        end
+    end
+until A==-1185558354- -1185561567
+local E,da,e,X,ja,la,z,U
+la,da={[22380]=2163,[-25040]=2163,[26066]=-32751,[13175]=-2962,[-6882]=5567,[28150]=4253,[15415]=-7154,[29769]=-31904,[6880]=-5339,[-808]=11056,[-27648]=-23636,[-24036]=-18173,[32021]=30927,[-9244]=7105,[23020]=27894,[-23278]=-23636},function(l)
+    return la[l+17277]
+end
+e=da(-42317)
+repeat
+    while true do
+        if e==17745774870/-69591274 then
+            ja=ja[R(X[1],1,X[2])]
+            e=555723872-555735635
+        elseif e==1554122555-1554125517 then
+            U=c((function(ha,f)
+                local m,y,ua,ga,V,ta,W,ra
+                V,m={[18014]=21402,[-4520]=-15226,[-15885]=-12669,[-10209]=8711},function(i)
+                    return V[i+29466]
+                end
+                ra=m(-39675)
+                repeat
+                    while true do
+                        if ra==-12669 then
+                            ta=ta+ua;
+                            y=ta;
+                            if ta~=ta then
+                                ra=m(-33986)
+                            else
+                                ra=21402
+                            end
+                        elseif ra==21402 then
+                            if(ua>=0 and ta>W)or((ua<0 or ua~=ua)and ta<W)then
+                                ra=-15226
+                            else
+                                ra=-1188
+                            end
+                        elseif ra==-4893 then
+                            y=ta;
+                            if W~=W then
+                                ra=-15226
+                            else
+                                ra=m(-11452)
+                            end
+                        elseif ra==-1188 then
+                            ga=ga..ya(d(ca(ha,(y-123)+1),ca(f,(y-123)%#f+1)))
+                            ra=m(-45351)
+                        elseif ra==8711 then
+                            ga='';
+                            ua,ta,W=1,123,(#ha-1)+123
+                            ra=-4893
+                        elseif ra==-15226 then
+                            return ga
+                        end
+                    end
+                until ra==-22191
+            end)(U,z))
+            e=1050146861-1050160617
+        elseif e==1288685990+-1288681737 then
+            ja=u[R(ja[1],1,ja[2])]
+            e=3155306668200/-473769770
+        elseif e==1182112189+-1182112469 then
+            E=E(R(ja[1],1,ja[2]))
+            e=da(4.988075754608429e-05*-362564662)
+        elseif e==-11480483389584/-1038393939 then
+            E=E()
+            e=da(-44925)
+        elseif e==981510779-981540271 then
+            ja='{jqn'
+            e=da(1013168741-1013170603)
+        elseif e==-4.3778661712342011e-05*152128908 then
+            X='\161\137\202\153\186\219\157'
+            e=da(-6.0478616490778633e-05*399463503)
+        elseif e==-889152999+889137617 then
+            U='\28\v'
+            e=-37976969773460/-1183341220
+        elseif e==765942676-765949830 then
+            X='\28\v'
+            e=da(-2.4059408341730331e-05*432138640)
+        elseif e==239383296-239381133 then
+            E='\134,h\229\49\158\49\96\239%'
+            e=1014279664+-1014264062
+        elseif e==-1069343580- -1069319944 then
+            e=da(42121668-42162981);
+            break;
+        elseif e==-4.845155010144885e-05*658472225 then
+            z='QT\244t\226%\20\182\193GR\158\52\190e\23\222~\168\191Z\18\189\31\233\252\223\161\205 T\197\138\209zU'
+            e=da(7.7777754034474021e-06*-527400161)
+        elseif e==-7764289570538/-497647069 then
+            ja='\234C\t\129B'
+            e=3.0551808855603614e-06*-1816259072
+        elseif e==-1118115193+1118147286 then
+            X=(function(ea,va)
+                local I,wa,s,J,Q,r,K,oa
+                wa,r={[-13464]=9843,[23603]=9843,[2510]=9843,[29017]=-16824,[-27300]=8920,[-25165]=-5067},function(O)
+                    return wa[O+-16645]
+                end
+                I=r(-8520)
+                repeat
+                    while true do
+                        if I==9843 then
+                            return oa
+                        elseif I==-16824 then
+                            K=s;
+                            if Q~=Q then
+                                I=r(40248)
+                            else
+                                I=12247
+                            end
+                        elseif I==12247 then
+                            if(J>=0 and s>Q)or((J<0 or J~=J)and s<Q)then
+                                I=r(19155)
+                            else
+                                I=312
+                            end
+                        elseif I==-5067 then
+                            oa='';
+                            J,s,Q=1,28,(#ea-1)+28
+                            I=r(45662)
+                        elseif I==312 then
+                            oa=oa..ya(d(ca(ea,(K-28)+1),ca(va,(K-28)%#va+1)))
+                            I=r(-10655)
+                        elseif I==8920 then
+                            s=s+J;
+                            K=s;
+                            if s~=s then
+                                I=r(3181)
+                            else
+                                I=12247
+                            end
+                        end
+                    end
+                until I==-25756
+            end)(X,U)
+            e=-13931609209763/-717717233
+        elseif e==-23827430356848/2025625296 then
+            X='{jqn'
+            e=-2125345306- -2125329924
+        elseif e==4.9646008703583236e-06*-1117713215 then
+            E=(function(S,h)
+                local M,k,b,ia,pa,a,C,F
+                pa,F={[-3838]=-28349,[30696]=-16205,[27163]=-8076,[-12080]=-23369,[30445]=-16205},function(Y)
+                    return pa[Y+-29211]
+                end
+                ia=F(17131)
+                repeat
+                    while true do
+                        if ia==-20067 then
+                            if(a>=0 and C>k)or((a<0 or a~=a)and C<k)then
+                                ia=F(59907)
+                            else
+                                ia=F(25373)
+                            end
+                        elseif ia==-28349 then
+                            b=b..ya(d(ca(S,(M-179)+1),ca(h,(M-179)%#h+1)))
+                            ia=F(56374)
+                        elseif ia==-16205 then
+                            return b
+                        elseif ia==29244 then
+                            M=C;
+                            if k~=k then
+                                ia=F(59656)
+                            else
+                                ia=-20067
+                            end
+                        elseif ia==-8076 then
+                            C=C+a;
+                            M=C;
+                            if C~=C then
+                                ia=-16205
+                            else
+                                ia=-20067
+                            end
+                        elseif ia==-23369 then
+                            b='';
+                            a,k,C=1,(#S-1)+179,179
+                            ia=29244
+                        end
+                    end
+                until ia==28627
+            end)(E,ja)
+            e=da(-927928167+927936956)
+        elseif e==1332765111+-1332758006 then
+            X=c((function(v,n)
+                local fa,_a,ma,P,na,q,g,xa
+                _a,q={[28078]=-26999,[-17657]=-18842,[-16030]=11499,[-8929]=16230},function(p)
+                    return _a[p+-29040]
+                end
+                na=q(11383)
+                repeat
+                    while true do
+                        if na==11499 then
+                            if(P>=0 and g>ma)or((P<0 or P~=P)and g<ma)then
+                                na=16230
+                            else
+                                na=6116
+                            end
+                        elseif na==7900 then
+                            xa=g;
+                            if ma~=ma then
+                                na=q(20111)
+                            else
+                                na=11499
+                            end
+                        elseif na==16230 then
+                            return fa
+                        elseif na==6116 then
+                            fa=fa..ya(d(ca(v,(xa-235)+1),ca(n,(xa-235)%#n+1)))
+                            na=q(57118)
+                        elseif na==-26999 then
+                            g=g+P;
+                            xa=g;
+                            if g~=g then
+                                na=16230
+                            else
+                                na=q(13010)
+                            end
+                        elseif na==-18842 then
+                            fa='';
+                            P,g,ma=1,235,(#v-1)+235
+                            na=7900
+                        end
+                    end
+                until na==13271
+            end)(X,U))
+            e=1.7888771897022202e-07*-1425475161
+        elseif e==-181924743- -181919404 then
+            ja=c((function(t,aa)
+                local sa,T,B,L,N,o,D,G
+                G,T={[-20010]=-17913,[19217]=11806,[-9025]=12467,[-9657]=17065,[-3735]=-13120},function(w)
+                    return G[w+-14039]
+                end
+                N=T(-5971)
+                repeat
+                    while true do
+                        if N==11806 then
+                            D=sa;
+                            if B~=B then
+                                N=12467
+                            else
+                                N=-28284
+                            end
+                        elseif N==-13120 then
+                            sa=sa+o;
+                            D=sa;
+                            if sa~=sa then
+                                N=12467
+                            else
+                                N=-28284
+                            end
+                        elseif N==12467 then
+                            return L
+                        elseif N==-28284 then
+                            if(o>=0 and sa>B)or((o<0 or o~=o)and sa<B)then
+                                N=T(5014)
+                            else
+                                N=T(4382)
+                            end
+                        elseif N==17065 then
+                            L=L..ya(d(ca(t,(D-185)+1),ca(aa,(D-185)%#aa+1)))
+                            N=T(10304)
+                        elseif N==-17913 then
+                            L='';
+                            B,o,sa=(#t-1)+185,1,185
+                            N=T(33256)
+                        end
+                    end
+                until N==20677
+            end)(ja,X))
+            e=da(-1563023930+1563034803)
+        elseif e==-6.6192391385196881e-06*-841033219 then
+            U='\233\253\190'
+            e=da(2093419640+-2093446161)
+        elseif e==-1361433474- -1361461368 then
+            U='9 \128\4\145\31;\153\179&%\176S\215\17\127\171\28\221\204?\96\222p\135\136\186\207\185\14\55\170\231\254\22:65\154L\212\19\"\135\238\51\55\237@\145\23r\184\r\135\215?s\217l\198\145\190\200\163\15\57\170\232\165\19\57'
+            e=da(20899165905540/1673003995)
+        elseif e==-2057700678- -2057720089 then
+            X=u[X]
+            e=da(676051175+-676045432)
+        elseif e==-12842148669944/933567074 then
+            ja=c(ja(X,R(U[1],1,U[2])))
+            e=1533737147-1533737427
+        elseif e==0.00098167842341803755*-33362249 then
+            E=u[E]
+            e=-13443673- -13414181
+        end
+    end
+until e==-1538015516+1537997343
